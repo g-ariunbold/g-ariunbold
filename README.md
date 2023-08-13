@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a web developer and designer currently based in Stockholm, Sweden.
+
 <!--
 **g-ariunbold/g-ariunbold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
